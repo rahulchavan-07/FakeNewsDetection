@@ -3,7 +3,7 @@
 This project is a **Streamlit-based web application** that detects whether a news headline or content is real or fake using **Natural Language Processing (NLP)** and **Machine Learning**. It uses TF-IDF vectorization and is trained on a labeled fake news dataset.
 
 ---
-
+Live APP :https://fakenewsdetectionrahul.streamlit.app/
 ## 🚀 Features
 
 - Streamlit web interface for easy usage
